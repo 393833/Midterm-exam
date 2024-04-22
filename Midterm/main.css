@@ -1,0 +1,20 @@
+canvas{
+    background-color: rgb(180, 180, 180);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 600px;
+    height: 800px;
+    margin: auto;
+}
+
+body{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html{
+    background-color: rgb(72, 153, 242);
+}
